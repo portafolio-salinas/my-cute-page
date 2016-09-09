@@ -1,0 +1,84 @@
+nav {
+	position: relative;
+	left: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+li {
+	list-style: none;
+	display: inline-block;	
+}
+a{
+	text-decoration: none;
+	text-align: center;
+	margin-right: 80px;
+}
+.paisaje{
+	background: url(../images/background1.jpg) no-repeat center center;
+	background-size: cover;
+	height: 500px;
+}
+.raya {
+	position: relative;
+	left: 47%;
+	top: 200px;
+	color: white;
+	display:block;
+}
+.nombre, .lema {
+	position: relative;
+	top: 200px;
+	color: white;
+	display:block;
+	text-align: center;
+}
+.nombre {
+	font-size: 40px;
+}
+.chica {
+	width: 100%;
+	border: 2px solid black;
+	padding: 3px;
+}
+.bla, .chica {
+	margin-top: 20px;
+}
+.dos {
+	background: url(../images/tile1.png);
+	margin-bottom: 50px;
+}
+.me {
+	color: #F42DD1;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	font-size: 30px;
+}/* Inserta tu CSS aqui */
+.rosa{
+	color: #F42DD1;
+	text-align: center;
+	margin-top: 30px;
+}/**/
+.gato{
+	width: 100%;
+	border-radius: 100%;
+	border: 2px solid #F42DD1;
+	padding: 3px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.cubos {
+	background: url(../images/tile2.png);
+	width: 100%;
+}
+.final {
+	color: #F42DD1;
+	text-align: center;
+	padding: 60px; 
+}
+.redes {
+	margin-left: 30px;
+	position: relative;
+	left: 350px;
+	padding-bottom: 50px;
+}
